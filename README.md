@@ -84,7 +84,7 @@ This notebook is designed to run on Kaggle with GPU support.
 
 ## How to Run Locally
 
-git clone https://github.com/YOUR_USERNAME/fashion-visual-similarity-search.git
+git clone https://github.com/sohamrathi17/fashion-visual-similarity-search.git
 cd fashion-visual-similarity-search
 pip install -r requirements.txt
 jupyter notebook semantic-fashion-search-2.ipynb
